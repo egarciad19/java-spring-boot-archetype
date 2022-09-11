@@ -1,0 +1,12 @@
+com\dase\gestortareas\commons\commonSvc.class
+com\dase\gestortareas\entities\AdUsuarios.class
+com\dase\gestortareas\Application.class
+com\dase\gestortareas\jsons\AdUsuariosRest.class
+com\dase\gestortareas\services\AdUsuariosSvc.class
+com\dase\gestortareas\responses\GestorResponse.class
+com\dase\gestortareas\commons\CommonSvcImpl.class
+com\dase\gestortareas\projection\AdUsuariosProjection.class
+com\dase\gestortareas\services\impl\AdUsuariosSvcImpl.class
+com\dase\gestortareas\config\SwaggerConfig.class
+com\dase\gestortareas\controllers\UserController.class
+com\dase\gestortareas\repositories\AdUsuariosRepository.class
