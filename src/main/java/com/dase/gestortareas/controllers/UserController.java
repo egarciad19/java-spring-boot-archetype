@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 
-@CrossOrigin(origins="https://analisis-sistemas.herokuapp.com")
+@CrossOrigin(origins="http://localhost:4200")
 @RestController
 
 @RequestMapping(path = "/user")
